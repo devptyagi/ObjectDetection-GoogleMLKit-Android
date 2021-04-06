@@ -4,3 +4,5 @@ Can integrate custom TensorFlow lite models.
 
 
 ## Preview:
+
+<img src="ss_sofa.jpg" height="500"> <img src="ss_plant.jpg" height="500">
